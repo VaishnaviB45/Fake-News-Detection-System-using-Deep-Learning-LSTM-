@@ -1,0 +1,2 @@
+# Fake-News-Detection-System-using-Deep-Learning-LSTM-
+This project aims to build an intelligent fake news detection system using Natural Language Processing (NLP) and a Long Short-Term Memory (LSTM) deep learning model. The system processes news article text, converts it into numerical form using tokenization and padding, and then uses an LSTM neural network to learn sequential patterns in text. 
