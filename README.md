@@ -27,7 +27,7 @@ Manual verification of news is time-consuming, so this project aims to automate 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Dataset sourced from **Kaggle**
 - Contains labeled news articles (Real / Fake)
-- Dataset includes t
+  
