@@ -3,6 +3,3 @@ fastapi
 uvicorn
 pydantic
 duckduckgo_search
-tensorflow
-numpy
-scikit-learn
